@@ -29,6 +29,8 @@ bash: npx playwright test -g 'file name'
 
 bash: npx playwright show-report
 
+-Some screenshots of the test reports can also be found in the assets folder
+
 Tests Included:
 1. Multi-language Testing
 -Tested languages: RO, FR, DE
